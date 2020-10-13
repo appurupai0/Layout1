@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>スイス国旗</title>
+	<link rel="stylesheet" href="Switzerland.css">
+	<link rel="stylesheet" href="reset.css">
+</head>
+<body>
+	<div id="conteiner">
+		<div id="main">
+			<div class="edd">
+				<div class="t"></div>
+				<div id="line"></div>
+				<div class="t"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>#container{
+	margin: 1px 40px 0px 40px;
+}
+
+.edd{
+	background-color: blue;
+	height: 330px;
+	border-radius: 100% 0% 0% 0%;
+}
+
+.line{
+	background-color: yellow;
+	position: relative;
+	top: 74px;
+	height: 257px;
+	width: 160px;
+	margin-left: 25%;
+	border-radius: 120% 0% 0% 0%;
+}
+
+#midlle{
+	background-color: yellow;
+	height: 160px;
+}
+
+.edde{
+	background-color: blue;
+	height: 330px;
+	border-radius: 0% 0% 100% 0%;
+}
+
+.line2{
+	background-color: yellow;
+	position: relative;
+	bottom: 6px;
+	height: 325px;
+	width: 170px;
+	margin-left: 25%;
+	border-radius: 0% 0% 140% 0%;
+}
+
+.font{
+	display:flex;
+	justify-content: flex-end;
+
+	font-size: 80px;
+	font-family: cursive;
+}

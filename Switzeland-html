@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>スイス国旗</title>
+	<link rel="stylesheet" href="Switzerland.css">
+	<link rel="stylesheet" href="reset.css">
+</head>
+<body>
+	<div id="conteiner">
+		<div id="main">
+			<div class="edd">
+				<div class="t"></div>
+				<div id="line"></div>
+				<div class="t"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

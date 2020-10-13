@@ -1,0 +1,19 @@
+#conteiner{
+	margin: 60px;
+}
+#yellow{
+	background-color: yellow;
+	height: 200px;
+}
+
+#blue{
+	background-color: blue;
+	height: 600px;
+}
+
+#vertical{
+	background-color: yellow;
+	height: 600px;
+	width: 200px;
+	margin-left: 583px;
+}

@@ -1,0 +1,24 @@
+#conteiner{
+	background-color: red;
+	margin:0 auto;
+	width: 500px;
+	height: 400px;
+	padding-top: 100px;
+}
+
+.t{
+	background-color: white;
+	height: 100px;
+	width: 100px;
+	margin: 0 auto;
+}
+
+.line{
+	background-color: white;
+	height: 97px;
+	width: 320px;
+	margin-left: auto;
+	margin-right: auto;
+	/*margin: 0 auto でもよいが、バグってしまう可能性あり;*/
+
+}

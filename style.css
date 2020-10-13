@@ -1,0 +1,30 @@
+#header{
+	background-color: red;
+	height: 100px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+/*positionを固定するとその下が上の幅に隠れてしまう*/
+/*そのために上の幅と同じ余白をmargin-topで開けている*/
+#main{
+	background-color: blue;
+	height: 400px;
+	margin-top: 100px;
+}
+
+#main2{
+	background-color: brown;
+	height: 400px;
+}
+
+#main3{
+	background-color: skyblue;
+	height: 400px;
+}
+
+#footer{
+	background-color: green;
+	height: 100px;
+}
